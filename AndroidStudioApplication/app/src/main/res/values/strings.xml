@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="input_hint">Enter your input here</string>
+    <string name="translate">Translate</string>
+</resources>
